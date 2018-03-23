@@ -6,7 +6,7 @@ end
 
 
 
-def summon_captain_plane(array)
+def summon_captain_planet(array)
   new_array = []
   variable = array.each do |element|
   "#{element.capitalize}!"
