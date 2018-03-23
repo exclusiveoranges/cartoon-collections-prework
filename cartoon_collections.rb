@@ -27,7 +27,7 @@ def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
   variable = " "
   array.each do |element|
-  cheese_types.find(element)
+  variable = cheese_types.find(element)
   end
-
+return variable 
 end
