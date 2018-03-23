@@ -1,9 +1,9 @@
-# def roll_call_dwarves(array)
-#               array.each_with_index do |element, index|
-#               puts "#{index} #{element}"
-#               end
-#
-# end
+def roll_call_dwarves(array)
+    array.each_with_index do |element, index|
+    puts "#{index} #{element}"
+    end
+
+end
 
 
 end
@@ -13,7 +13,7 @@ def summon_captain_plane(array)
   array.each do |element|
   variable = element.capitalize
   end
-  new_array.push(variable )
+  new_array.push(variable)
 
 end
 
