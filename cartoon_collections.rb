@@ -8,14 +8,14 @@ end
 
 end
 
-def summon_captain_plane(array)
-  new_array = []
-  array.each do |element|
-  variable = element.capitalize
-  end
-  new_array.push(variable)
-
-end
+# def summon_captain_plane(array)
+#   new_array = []
+#   array.each do |element|
+#   variable = element.capitalize
+#   end
+#   new_array.push(variable)
+#
+# end
 
 def long_planeteer_calls# code an argument here
   # Your code here
