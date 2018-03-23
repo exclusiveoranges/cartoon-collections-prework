@@ -2,7 +2,7 @@
 #               array.each_with_index do |element, index|
 #               puts "#{index} #{element}"
 #               end
-# 
+#
 # end
 
 
@@ -12,6 +12,7 @@ def summon_captain_plane(array)
   new_array = []
   array.each do |element|
   element.capitalize
+  end
   new_array.push(element)
 
 end
