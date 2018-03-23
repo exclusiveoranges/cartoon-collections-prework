@@ -11,7 +11,9 @@ end
 def summon_captain_plane(array)
   new_array = []
   array.each do |element|
-    
+  element.capitalize
+  new_array.push(element)
+
 end
 
 def long_planeteer_calls# code an argument here
