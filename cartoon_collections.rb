@@ -5,7 +5,6 @@ def roll_call_dwarves(array)
 end
 
 
-end
 
 # def summon_captain_plane(array)
 #   new_array = []
