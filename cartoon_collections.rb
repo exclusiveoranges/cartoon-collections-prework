@@ -13,7 +13,7 @@ def summon_captain_plane(array)
   array.each do |element|
   variable = element.capitalize
   end
-  new_array.push(element)
+  new_array.push(variable )
 
 end
 
